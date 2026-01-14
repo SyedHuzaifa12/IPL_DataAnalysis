@@ -146,7 +146,7 @@ The goal is to **extract actionable insights** from historical IPL data that can
 
 **Syed Huzaifa**  
 🎓 B.Tech – Artificial Intelligence & Data Science  
-🏫 Aditya College of Engineering  
+🏫 Aditya College of Engineering Madanapalle
 
 🔗 GitHub: https://github.com/SyedHuzaifa12  
 🔗 LinkedIn: https://www.linkedin.com/in/syed-huzaifa-b4b64a27b  
