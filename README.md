@@ -155,4 +155,4 @@ The goal is to **extract actionable insights** from historical IPL data that can
 
 ## 📜 License
 
-This project is intended for **learning, research, and academic use**.
+This project is intended for **learning, research, & academic use**.
