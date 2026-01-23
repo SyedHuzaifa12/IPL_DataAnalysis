@@ -6,7 +6,7 @@
 
 ## ⭐ Overview
 
-This project presents an **in-depth Exploratory Data Analysis (EDA)** of **Indian Premier League (IPL) matches from 2008 to 2024**, focusing on match outcomes, team dominance, player performance, toss impact, and scoring patterns.
+This project presents an **in-depth Exploratory Data Analysis (EDA)** of **Indian Premier League (IPL) matches from 2008 to 2024**, focusing on match outcomes, team dominance, player performance, toss impact, & scoring patterns.
 
 The goal is to **extract actionable insights** from historical IPL data that can support **sports analytics, strategy formulation, and predictive modeling**.
 
